@@ -65,7 +65,7 @@ const DietaryFeatures = () => {
   
   return (
    
-    <section className="relative w-full min-h-[80vh] flex items-center justify-center overflow-hidden bg-white  px-4 font-venice -mt-32 2xl:-mt-64 overflow-x-hidden">
+    <section className="relative w-full min-h-[80vh] flex items-center justify-center overflow-hidden bg-white  px-4 font-venice -mt-32  overflow-x-hidden">
       <div className="absolute inset-0 pointer-events-none">
         {dietaryOptions.map((option) => (
           <div key={option.id}>

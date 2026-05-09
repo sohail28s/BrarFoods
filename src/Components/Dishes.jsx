@@ -67,7 +67,7 @@ const Dishes = () => {
                         className="absolute -left-7  md:-left-12 -top-[6rem] md:top-0 md:-translate-y-1/2 w-28 md:w-40 lg:w-52 z-20 rotate-[-12deg]"
                     />
 
-                    <h2 className="font-venice text-[11vw]  left-[3rem] bottom-[4rem]  lg:text-[7rem] leading-[0.85] tracking-tighter uppercase text-black relative z-10 ml-8 md:ml-0 md:left-40 md:bottom-20">
+                    <h2 className="font-venice text-[11vw]  left-[3rem] bottom-[4rem] hidden md:block lg:text-[7rem] leading-[0.85] tracking-tighter uppercase text-black relative z-10 ml-8 md:ml-0 md:left-40 md:bottom-20">
                         Growing <br /> With <br />
                         Community
                     </h2>
