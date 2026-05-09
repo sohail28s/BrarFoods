@@ -10,24 +10,24 @@ import 'swiper/css/pagination';
 
 import { FaArrowRight } from "react-icons/fa6";
 
-import Tick from '../../public/images/svgs/tickblack.svg';
-import BgShape from '../../public/images/mandala-spin.svg';
-import LeftArrowIcon from '../../public/images/svgs/leftarrow.svg';
-import RightArrowIcon from '../../public/images/svgs/rightarrow.svg';
+import Tick from '/images/svgs/tickblack.svg';
+import BgShape from '/images/mandala-spin.svg';
+import LeftArrowIcon from '/images/svgs/leftarrow.svg';
+import RightArrowIcon from '/images/svgs/rightarrow.svg';
 
-import Recipe1 from '../../public/images/FoodSlider/Mango.avif';
-import Recipe2 from '../../public/images/FoodSlider/ProteinDahi.avif';
-import Recipe3 from '../../public/images/FoodSlider/samosachat.avif';
-import Recipe4 from '../../public/images/FoodSlider/loadedbowl.avif';
-import Recipe5 from '../../public/images/FoodSlider/ghee.avif';
-import Recipe6 from '../../public/images/FoodSlider/grilledpaneer.avif';
+const Recipe1 =  '/images/FoodSlider/Mango.avif';
+const Recipe2  ='/images/FoodSlider/ProteinDahi.avif';
+const Recipe3  ='/images/FoodSlider/samosachat.avif';
+const Recipe4 = '/images/FoodSlider/loadedbowl.avif';
+const Recipe5 = '/images/FoodSlider/ghee.avif';
+const Recipe6 = '/images/FoodSlider/grilledpaneer.avif';
 
 const recipes = [
   {
     id: 1,
     title: 'Mango Rasmalai Milkshake',
     time: '6 min',
-    image: Recipe1,
+    image: Recipe2,
     tag: 'Vegetarian',
     bgColor: 'bg-mandalablue',
     hueRotation: '180deg', 
