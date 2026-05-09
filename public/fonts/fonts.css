@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Degular';
+  src: url('./Degular/Degular-Medium.DVr1TZSw.woff2') format('woff2');
+  font-weight: 500; 
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Degular';
+  src: url('./Degular/Degular-Bold.5ygTMA4Q.woff2') format('woff2');
+  font-weight: 700; 
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Venice Blvd';
+  src: url('./Venice/VeniceBlvd-Bold.Ei69wFMh.woff') format('woff');
+  font-weight: 700; 
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Venice Blvd';
+  src: url('./Venice/VeniceBlvd-Black.Cbxur73X.woff2') format('woff2');
+  font-weight: 900; 
+  font-style: normal;
+  font-display: swap;
+}
